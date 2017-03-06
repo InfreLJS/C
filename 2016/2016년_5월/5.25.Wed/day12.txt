@@ -1,0 +1,9 @@
+mankind 인류
+ancestor 조상
+tongue 혀,말
+vocabulary 어휘
+section 부분
+mission 특병_임무[사명]
+weapon 무기
+row 줄[열]
+wound 상처[부상]
